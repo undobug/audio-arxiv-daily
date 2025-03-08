@@ -15,7 +15,7 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: yuanbofang
+  GITHUB_USER_NAME: audio365
   GITHUB_USER_EMAIL: fyb1126@163.com
   
   
