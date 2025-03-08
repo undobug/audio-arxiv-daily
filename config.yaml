@@ -24,4 +24,4 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Audio":
         filters: [
-            "Speech interaction", "Speech Synthesis", "TTS", "Text to speech", "Music Generation", "Speech to Speech", "Audio Generation", "Speech Generation", "Audio LLM", "Audio large language model" ]
+            "Speech interaction", "Speech Synthesis", "TTS", "Text to speech", "Music Generation", "Speech to Speech", "Audio Generation", "Speech Generation", "Audio LLM", "Audio large language model", "Audio Language" ]
