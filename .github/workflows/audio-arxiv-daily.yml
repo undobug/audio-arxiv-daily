@@ -3,7 +3,8 @@ name: Run Arxiv Papers Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
+    - cron: "*/10 * * * *"
+    #- cron:  "0 0/12 * * *"  #'*/60 * * * *'
 
 env:
   GITHUB_USER_NAME: audio365
