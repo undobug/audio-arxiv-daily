@@ -287,7 +287,7 @@ def json_to_md(filename,md_filename,
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
         
-        if show_badge == True:
+        if show_badge == False:
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
@@ -347,7 +347,7 @@ def json_to_md(filename,md_filename,
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
             
-        if show_badge == True:
+        if show_badge == False:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
