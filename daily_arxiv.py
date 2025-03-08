@@ -301,6 +301,8 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
+        Web Page
+        f.write("> [Web Page](https://undobug.github.io/audio-arxiv-daily)\n\n")
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
         f.write("> This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)\n\n")
 
