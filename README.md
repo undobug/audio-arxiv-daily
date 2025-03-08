@@ -18,9 +18,11 @@
 |---|---|---|---|---|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|null|
+|**2025-03-06**|**Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities**|Sreyan Ghosh et.al.|[2503.03983](http://arxiv.org/abs/2503.03983)|null|
 |**2025-03-05**|**Good practices for evaluation of synthesized speech**|Erica Cooper et.al.|[2503.03250](http://arxiv.org/abs/2503.03250)|null|
 |**2025-03-05**|**Making AI-Enhanced Videos: Analyzing Generative AI Use Cases in YouTube Content Creation**|Torin Anderson et.al.|[2503.03134](http://arxiv.org/abs/2503.03134)|null|
 |**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
+|**2025-03-04**|**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**|Zhifei Xie et.al.|[2503.02318](http://arxiv.org/abs/2503.02318)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|null|
 |**2025-03-03**|**Augmenting Online Meetings with Context-Aware Real-time Music Generation**|Haruki Suzawa et.al.|[2503.01354](http://arxiv.org/abs/2503.01354)|null|
 |**2025-03-03**|**Voice Cloning for Dysarthric Speech Synthesis: Addressing Data Scarcity in Speech-Language Pathology**|Birger Moell et.al.|[2503.01266](http://arxiv.org/abs/2503.01266)|null|
