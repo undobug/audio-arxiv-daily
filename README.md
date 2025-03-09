@@ -1,4 +1,4 @@
-## Updated on 2025.03.08
+## Updated on 2025.03.09
 > [Web Page](https://undobug.github.io/audio-arxiv-daily)
 
 > Usage instructions: [here](./docs/README.md#usage)
@@ -169,5 +169,5 @@
 |**2024-12-23**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
 |**2025-01-04**|**RiTTA: Modeling Event Relations in Text-to-Audio Generation**|Yuhang He et.al.|[2412.15922](http://arxiv.org/abs/2412.15922)|**[link](https://github.com/yuhanghe01/ritta)**|
 
-<p align=right>(<a href=#updated-on-20250308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
