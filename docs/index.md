@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > [Web Page](https://undobug.github.io/audio-arxiv-daily)
 
 > Usage instructions: [here](./docs/README.md#usage)
